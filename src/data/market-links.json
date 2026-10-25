@@ -1,0 +1,956 @@
+{
+  "kr-005930": {
+    "stockId": "kr-005930",
+    "ticker": "005930",
+    "tossUrl": "https://www.tossinvest.com/stocks/A005930/order",
+    "logoPath": "/company-icons/kr-005930.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-005930.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A005930",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-000660": {
+    "stockId": "kr-000660",
+    "ticker": "000660",
+    "tossUrl": "https://www.tossinvest.com/stocks/A000660/order",
+    "logoPath": "/company-icons/kr-000660.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-000660.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A000660",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-035420": {
+    "stockId": "kr-035420",
+    "ticker": "035420",
+    "tossUrl": "https://www.tossinvest.com/stocks/A035420/order",
+    "logoPath": "/company-icons/kr-035420.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-035420.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A035420",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-035720": {
+    "stockId": "kr-035720",
+    "ticker": "035720",
+    "tossUrl": "https://www.tossinvest.com/stocks/A035720/order",
+    "logoPath": "/company-icons/kr-035720.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-035720.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A035720",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-005380": {
+    "stockId": "kr-005380",
+    "ticker": "005380",
+    "tossUrl": "https://www.tossinvest.com/stocks/A005380/order",
+    "logoPath": "/company-icons/kr-005380.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-005380.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A005380",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-000270": {
+    "stockId": "kr-000270",
+    "ticker": "000270",
+    "tossUrl": "https://www.tossinvest.com/stocks/A000270/order",
+    "logoPath": "/company-icons/kr-000270.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-000270.png?20241203",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A000270",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-012330": {
+    "stockId": "kr-012330",
+    "ticker": "012330",
+    "tossUrl": "https://www.tossinvest.com/stocks/A012330/order",
+    "logoPath": "/company-icons/kr-012330.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-012330.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A012330",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-066570": {
+    "stockId": "kr-066570",
+    "ticker": "066570",
+    "tossUrl": "https://www.tossinvest.com/stocks/A066570/order",
+    "logoPath": "/company-icons/kr-066570.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-066570.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A066570",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-006400": {
+    "stockId": "kr-006400",
+    "ticker": "006400",
+    "tossUrl": "https://www.tossinvest.com/stocks/A006400/order",
+    "logoPath": "/company-icons/kr-006400.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-006400.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A006400",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-051910": {
+    "stockId": "kr-051910",
+    "ticker": "051910",
+    "tossUrl": "https://www.tossinvest.com/stocks/A051910/order",
+    "logoPath": "/company-icons/kr-051910.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-051910.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A051910",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-373220": {
+    "stockId": "kr-373220",
+    "ticker": "373220",
+    "tossUrl": "https://www.tossinvest.com/stocks/A373220/order",
+    "logoPath": "/company-icons/kr-373220.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-373220.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A373220",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-005490": {
+    "stockId": "kr-005490",
+    "ticker": "005490",
+    "tossUrl": "https://www.tossinvest.com/stocks/A005490/order",
+    "logoPath": "/company-icons/kr-005490.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-005490.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A005490",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-105560": {
+    "stockId": "kr-105560",
+    "ticker": "105560",
+    "tossUrl": "https://www.tossinvest.com/stocks/A105560/order",
+    "logoPath": "/company-icons/kr-105560.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-105560.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A105560",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-055550": {
+    "stockId": "kr-055550",
+    "ticker": "055550",
+    "tossUrl": "https://www.tossinvest.com/stocks/A055550/order",
+    "logoPath": "/company-icons/kr-055550.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-055550.png?20240416",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A055550",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-086790": {
+    "stockId": "kr-086790",
+    "ticker": "086790",
+    "tossUrl": "https://www.tossinvest.com/stocks/A086790/order",
+    "logoPath": "/company-icons/kr-086790.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-086790.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A086790",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-316140": {
+    "stockId": "kr-316140",
+    "ticker": "316140",
+    "tossUrl": "https://www.tossinvest.com/stocks/A316140/order",
+    "logoPath": "/company-icons/kr-316140.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-316140.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A316140",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-032830": {
+    "stockId": "kr-032830",
+    "ticker": "032830",
+    "tossUrl": "https://www.tossinvest.com/stocks/A032830/order",
+    "logoPath": "/company-icons/kr-032830.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-032830.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A032830",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-000810": {
+    "stockId": "kr-000810",
+    "ticker": "000810",
+    "tossUrl": "https://www.tossinvest.com/stocks/A000810/order",
+    "logoPath": "/company-icons/kr-000810.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-000810.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A000810",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-017670": {
+    "stockId": "kr-017670",
+    "ticker": "017670",
+    "tossUrl": "https://www.tossinvest.com/stocks/A017670/order",
+    "logoPath": "/company-icons/kr-017670.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-017670.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A017670",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-030200": {
+    "stockId": "kr-030200",
+    "ticker": "030200",
+    "tossUrl": "https://www.tossinvest.com/stocks/A030200/order",
+    "logoPath": "/company-icons/kr-030200.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-030200.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A030200",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-032640": {
+    "stockId": "kr-032640",
+    "ticker": "032640",
+    "tossUrl": "https://www.tossinvest.com/stocks/A032640/order",
+    "logoPath": "/company-icons/kr-032640.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-032640.png?20240508",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A032640",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-015760": {
+    "stockId": "kr-015760",
+    "ticker": "015760",
+    "tossUrl": "https://www.tossinvest.com/stocks/A015760/order",
+    "logoPath": "/company-icons/kr-015760.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-015760.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A015760",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-033780": {
+    "stockId": "kr-033780",
+    "ticker": "033780",
+    "tossUrl": "https://www.tossinvest.com/stocks/A033780/order",
+    "logoPath": "/company-icons/kr-033780.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-033780.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A033780",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-097950": {
+    "stockId": "kr-097950",
+    "ticker": "097950",
+    "tossUrl": "https://www.tossinvest.com/stocks/A097950/order",
+    "logoPath": "/company-icons/kr-097950.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-097950.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A097950",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-004370": {
+    "stockId": "kr-004370",
+    "ticker": "004370",
+    "tossUrl": "https://www.tossinvest.com/stocks/A004370/order",
+    "logoPath": "/company-icons/kr-004370.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-004370.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A004370",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-271560": {
+    "stockId": "kr-271560",
+    "ticker": "271560",
+    "tossUrl": "https://www.tossinvest.com/stocks/A271560/order",
+    "logoPath": "/company-icons/kr-271560.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-271560.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A271560",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-003230": {
+    "stockId": "kr-003230",
+    "ticker": "003230",
+    "tossUrl": "https://www.tossinvest.com/stocks/A003230/order",
+    "logoPath": "/company-icons/kr-003230.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-003230.png?20250827",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A003230",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-282330": {
+    "stockId": "kr-282330",
+    "ticker": "282330",
+    "tossUrl": "https://www.tossinvest.com/stocks/A282330/order",
+    "logoPath": "/company-icons/kr-282330.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-282330.png?20240508",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A282330",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-139480": {
+    "stockId": "kr-139480",
+    "ticker": "139480",
+    "tossUrl": "https://www.tossinvest.com/stocks/A139480/order",
+    "logoPath": "/company-icons/kr-139480.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-139480.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A139480",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-023530": {
+    "stockId": "kr-023530",
+    "ticker": "023530",
+    "tossUrl": "https://www.tossinvest.com/stocks/A023530/order",
+    "logoPath": "/company-icons/kr-023530.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-023530.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A023530",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-051900": {
+    "stockId": "kr-051900",
+    "ticker": "051900",
+    "tossUrl": "https://www.tossinvest.com/stocks/A051900/order",
+    "logoPath": "/company-icons/kr-051900.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-051900.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A051900",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-090430": {
+    "stockId": "kr-090430",
+    "ticker": "090430",
+    "tossUrl": "https://www.tossinvest.com/stocks/A090430/order",
+    "logoPath": "/company-icons/kr-090430.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-090430.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A090430",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-028260": {
+    "stockId": "kr-028260",
+    "ticker": "028260",
+    "tossUrl": "https://www.tossinvest.com/stocks/A028260/order",
+    "logoPath": "/company-icons/kr-028260.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-028260.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A028260",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-009150": {
+    "stockId": "kr-009150",
+    "ticker": "009150",
+    "tossUrl": "https://www.tossinvest.com/stocks/A009150/order",
+    "logoPath": "/company-icons/kr-009150.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-009150.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A009150",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-011070": {
+    "stockId": "kr-011070",
+    "ticker": "011070",
+    "tossUrl": "https://www.tossinvest.com/stocks/A011070/order",
+    "logoPath": "/company-icons/kr-011070.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-011070.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A011070",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-009540": {
+    "stockId": "kr-009540",
+    "ticker": "009540",
+    "tossUrl": "https://www.tossinvest.com/stocks/A009540/order",
+    "logoPath": "/company-icons/kr-009540.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-009540.png?20230830",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A009540",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-010140": {
+    "stockId": "kr-010140",
+    "ticker": "010140",
+    "tossUrl": "https://www.tossinvest.com/stocks/A010140/order",
+    "logoPath": "/company-icons/kr-010140.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-010140.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A010140",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-042660": {
+    "stockId": "kr-042660",
+    "ticker": "042660",
+    "tossUrl": "https://www.tossinvest.com/stocks/A042660/order",
+    "logoPath": "/company-icons/kr-042660.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-042660.png?20230817",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A042660",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-034020": {
+    "stockId": "kr-034020",
+    "ticker": "034020",
+    "tossUrl": "https://www.tossinvest.com/stocks/A034020/order",
+    "logoPath": "/company-icons/kr-034020.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-034020.png?20230614",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A034020",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-010120": {
+    "stockId": "kr-010120",
+    "ticker": "010120",
+    "tossUrl": "https://www.tossinvest.com/stocks/A010120/order",
+    "logoPath": "/company-icons/kr-010120.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-010120.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A010120",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-047810": {
+    "stockId": "kr-047810",
+    "ticker": "047810",
+    "tossUrl": "https://www.tossinvest.com/stocks/A047810/order",
+    "logoPath": "/company-icons/kr-047810.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-047810.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A047810",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-012450": {
+    "stockId": "kr-012450",
+    "ticker": "012450",
+    "tossUrl": "https://www.tossinvest.com/stocks/A012450/order",
+    "logoPath": "/company-icons/kr-012450.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-012450.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A012450",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-064350": {
+    "stockId": "kr-064350",
+    "ticker": "064350",
+    "tossUrl": "https://www.tossinvest.com/stocks/A064350/order",
+    "logoPath": "/company-icons/kr-064350.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-064350.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A064350",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-036570": {
+    "stockId": "kr-036570",
+    "ticker": "036570",
+    "tossUrl": "https://www.tossinvest.com/stocks/A036570/order",
+    "logoPath": "/company-icons/kr-036570.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-036570.png?220517",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A036570",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-251270": {
+    "stockId": "kr-251270",
+    "ticker": "251270",
+    "tossUrl": "https://www.tossinvest.com/stocks/A251270/order",
+    "logoPath": "/company-icons/kr-251270.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-251270.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A251270",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-259960": {
+    "stockId": "kr-259960",
+    "ticker": "259960",
+    "tossUrl": "https://www.tossinvest.com/stocks/A259960/order",
+    "logoPath": "/company-icons/kr-259960.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-259960.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A259960",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-035250": {
+    "stockId": "kr-035250",
+    "ticker": "035250",
+    "tossUrl": "https://www.tossinvest.com/stocks/A035250/order",
+    "logoPath": "/company-icons/kr-035250.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-035250.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A035250",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-000100": {
+    "stockId": "kr-000100",
+    "ticker": "000100",
+    "tossUrl": "https://www.tossinvest.com/stocks/A000100/order",
+    "logoPath": "/company-icons/kr-000100.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-000100.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A000100",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-128940": {
+    "stockId": "kr-128940",
+    "ticker": "128940",
+    "tossUrl": "https://www.tossinvest.com/stocks/A128940/order",
+    "logoPath": "/company-icons/kr-128940.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-128940.png?20240508",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A128940",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-069620": {
+    "stockId": "kr-069620",
+    "ticker": "069620",
+    "tossUrl": "https://www.tossinvest.com/stocks/A069620/order",
+    "logoPath": "/company-icons/kr-069620.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-069620.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A069620",
+    "checkedAt": "2026-10-25"
+  },
+  "us-nvda": {
+    "stockId": "us-nvda",
+    "ticker": "NVDA",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19990122001/order",
+    "logoPath": "/company-icons/us-nvda.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS00208X-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/NVDA",
+    "checkedAt": "2026-10-25"
+  },
+  "us-aapl": {
+    "stockId": "us-aapl",
+    "ticker": "AAPL",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19801212001/order",
+    "logoPath": "/company-icons/us-aapl.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS000C7F-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/AAPL",
+    "checkedAt": "2026-10-25"
+  },
+  "us-msft": {
+    "stockId": "us-msft",
+    "ticker": "MSFT",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19860313001/order",
+    "logoPath": "/company-icons/us-msft.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS000Q07-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/MSFT",
+    "checkedAt": "2026-10-25"
+  },
+  "us-avgo": {
+    "stockId": "us-avgo",
+    "ticker": "AVGO",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20090806002/order",
+    "logoPath": "/company-icons/us-avgo.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS0JCLYY-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/AVGO",
+    "checkedAt": "2026-10-25"
+  },
+  "us-amd": {
+    "stockId": "us-amd",
+    "ticker": "AMD",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20150102001/order",
+    "logoPath": "/company-icons/us-amd.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS000BK7-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/AMD",
+    "checkedAt": "2026-10-25"
+  },
+  "us-orcl": {
+    "stockId": "us-orcl",
+    "ticker": "ORCL",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19860312001/order",
+    "logoPath": "/company-icons/us-orcl.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000SY8-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/ORCL",
+    "checkedAt": "2026-10-25"
+  },
+  "us-crm": {
+    "stockId": "us-crm",
+    "ticker": "CRM",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20040623001/order",
+    "logoPath": "/company-icons/us-crm.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS0058W5-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/CRM",
+    "checkedAt": "2026-10-25"
+  },
+  "us-adbe": {
+    "stockId": "us-adbe",
+    "ticker": "ADBE",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19860820001/order",
+    "logoPath": "/company-icons/us-adbe.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS000BJT-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/ADBE",
+    "checkedAt": "2026-10-25"
+  },
+  "us-amzn": {
+    "stockId": "us-amzn",
+    "ticker": "AMZN",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19970515001/order",
+    "logoPath": "/company-icons/us-amzn.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS001MF1-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/AMZN",
+    "checkedAt": "2026-10-25"
+  },
+  "us-tsla": {
+    "stockId": "us-tsla",
+    "ticker": "TSLA",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20100629001/order",
+    "logoPath": "/company-icons/us-tsla.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS006XY7-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/TSLA",
+    "checkedAt": "2026-10-25"
+  },
+  "us-hd": {
+    "stockId": "us-hd",
+    "ticker": "HD",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19810922001/order",
+    "logoPath": "/company-icons/us-hd.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000LR9-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/HD",
+    "checkedAt": "2026-10-25"
+  },
+  "us-mcd": {
+    "stockId": "us-mcd",
+    "ticker": "MCD",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19660705001/order",
+    "logoPath": "/company-icons/us-mcd.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000PLS-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/MCD",
+    "checkedAt": "2026-10-25"
+  },
+  "us-nke": {
+    "stockId": "us-nke",
+    "ticker": "NKE",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19901017001/order",
+    "logoPath": "/company-icons/us-nke.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000RBW-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/NKE",
+    "checkedAt": "2026-10-25"
+  },
+  "us-sbux": {
+    "stockId": "us-sbux",
+    "ticker": "SBUX",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19920626001/order",
+    "logoPath": "/company-icons/us-sbux.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS000WW4-E0.png?202411141",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/SBUX",
+    "checkedAt": "2026-10-25"
+  },
+  "us-bkng": {
+    "stockId": "us-bkng",
+    "ticker": "BKNG",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20180227001/order",
+    "logoPath": "/company-icons/us-bkng.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS0029GL-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/BKNG",
+    "checkedAt": "2026-10-25"
+  },
+  "us-googl": {
+    "stockId": "us-googl",
+    "ticker": "GOOGL",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20040819002/order",
+    "logoPath": "/company-icons/us-googl.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NASWFJYTJ-R0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/GOOGL",
+    "checkedAt": "2026-10-25"
+  },
+  "us-meta": {
+    "stockId": "us-meta",
+    "ticker": "META",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20120518001/order",
+    "logoPath": "/company-icons/us-meta.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-MVRS.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/META",
+    "checkedAt": "2026-10-25"
+  },
+  "us-nflx": {
+    "stockId": "us-nflx",
+    "ticker": "NFLX",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20020523001/order",
+    "logoPath": "/company-icons/us-nflx.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS002X9M-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/NFLX",
+    "checkedAt": "2026-10-25"
+  },
+  "us-dis": {
+    "stockId": "us-dis",
+    "ticker": "DIS",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19620102001/order",
+    "logoPath": "/company-icons/us-dis.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000HLG-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/DIS",
+    "checkedAt": "2026-10-25"
+  },
+  "us-t": {
+    "stockId": "us-t",
+    "ticker": "T",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19461101001/order",
+    "logoPath": "/company-icons/us-t.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS069J8N-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/T",
+    "checkedAt": "2026-10-25"
+  },
+  "us-vz": {
+    "stockId": "us-vz",
+    "ticker": "VZ",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19831121001/order",
+    "logoPath": "/company-icons/us-vz.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000CQ8-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/VZ",
+    "checkedAt": "2026-10-25"
+  },
+  "us-brk-b": {
+    "stockId": "us-brk-b",
+    "ticker": "BRK.B",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20100121001/order",
+    "logoPath": "/company-icons/us-brk-b.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000CS1-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/BRK.B",
+    "checkedAt": "2026-10-25"
+  },
+  "us-jpm": {
+    "stockId": "us-jpm",
+    "ticker": "JPM",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19690401002/order",
+    "logoPath": "/company-icons/us-jpm.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS0035K2-E0.png?20240521",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/JPM",
+    "checkedAt": "2026-10-25"
+  },
+  "us-v": {
+    "stockId": "us-v",
+    "ticker": "V",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20080319001/order",
+    "logoPath": "/company-icons/us-v.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS05MDRV-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/V",
+    "checkedAt": "2026-10-25"
+  },
+  "us-ma": {
+    "stockId": "us-ma",
+    "ticker": "MA",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20060525001/order",
+    "logoPath": "/company-icons/us-ma.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS0038M5-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/MA",
+    "checkedAt": "2026-10-25"
+  },
+  "us-axp": {
+    "stockId": "us-axp",
+    "ticker": "AXP",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19770518001/order",
+    "logoPath": "/company-icons/us-axp.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000BY7-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/AXP",
+    "checkedAt": "2026-10-25"
+  },
+  "us-gs": {
+    "stockId": "us-gs",
+    "ticker": "GS",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19990504001/order",
+    "logoPath": "/company-icons/us-gs.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS002615-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/GS",
+    "checkedAt": "2026-10-25"
+  },
+  "us-lly": {
+    "stockId": "us-lly",
+    "ticker": "LLY",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19700709001/order",
+    "logoPath": "/company-icons/us-lly.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000P56-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/LLY",
+    "checkedAt": "2026-10-25"
+  },
+  "us-jnj": {
+    "stockId": "us-jnj",
+    "ticker": "JNJ",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19440925001/order",
+    "logoPath": "/company-icons/us-jnj.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000NB6-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/JNJ",
+    "checkedAt": "2026-10-25"
+  },
+  "us-unh": {
+    "stockId": "us-unh",
+    "ticker": "UNH",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19911010002/order",
+    "logoPath": "/company-icons/us-unh.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS0TKCFW-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/UNH",
+    "checkedAt": "2026-10-25"
+  },
+  "us-abbv": {
+    "stockId": "us-abbv",
+    "ticker": "ABBV",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20121210001/order",
+    "logoPath": "/company-icons/us-abbv.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS00DYYX-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/ABBV",
+    "checkedAt": "2026-10-25"
+  },
+  "us-pfe": {
+    "stockId": "us-pfe",
+    "ticker": "PFE",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19510622001/order",
+    "logoPath": "/company-icons/us-pfe.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000TBT-E0.png?20241111",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/PFE",
+    "checkedAt": "2026-10-25"
+  },
+  "us-tmo": {
+    "stockId": "us-tmo",
+    "ticker": "TMO",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19800827001/order",
+    "logoPath": "/company-icons/us-tmo.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS06LJVN-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/TMO",
+    "checkedAt": "2026-10-25"
+  },
+  "us-wmt": {
+    "stockId": "us-wmt",
+    "ticker": "WMT",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19701001001/order",
+    "logoPath": "/company-icons/us-wmt.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000YMS-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/WMT",
+    "checkedAt": "2026-10-25"
+  },
+  "us-cost": {
+    "stockId": "us-cost",
+    "ticker": "COST",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19851127001/order",
+    "logoPath": "/company-icons/us-cost.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS000F9X-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/COST",
+    "checkedAt": "2026-10-25"
+  },
+  "us-pg": {
+    "stockId": "us-pg",
+    "ticker": "PG",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19500322001/order",
+    "logoPath": "/company-icons/us-pg.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000TRY-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/PG",
+    "checkedAt": "2026-10-25"
+  },
+  "us-ko": {
+    "stockId": "us-ko",
+    "ticker": "KO",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19240926001/order",
+    "logoPath": "/company-icons/us-ko.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000DWY-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/KO",
+    "checkedAt": "2026-10-25"
+  },
+  "us-pep": {
+    "stockId": "us-pep",
+    "ticker": "PEP",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20171220003/order",
+    "logoPath": "/company-icons/us-pep.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS000T99-E0.png?20240520",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/PEP",
+    "checkedAt": "2026-10-25"
+  },
+  "us-cl": {
+    "stockId": "us-cl",
+    "ticker": "CL",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19510109001/order",
+    "logoPath": "/company-icons/us-cl.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000DXS-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/CL",
+    "checkedAt": "2026-10-25"
+  },
+  "us-xom": {
+    "stockId": "us-xom",
+    "ticker": "XOM",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19200325001/order",
+    "logoPath": "/company-icons/us-xom.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS002Q0G-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/XOM",
+    "checkedAt": "2026-10-25"
+  },
+  "us-cvx": {
+    "stockId": "us-cvx",
+    "ticker": "CVX",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19210624001/order",
+    "logoPath": "/company-icons/us-cvx.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-CVX.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/CVX",
+    "checkedAt": "2026-10-25"
+  },
+  "us-cat": {
+    "stockId": "us-cat",
+    "ticker": "CAT",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19291202001/order",
+    "logoPath": "/company-icons/us-cat.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000DFY-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/CAT",
+    "checkedAt": "2026-10-25"
+  },
+  "us-de": {
+    "stockId": "us-de",
+    "ticker": "DE",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19580804001/order",
+    "logoPath": "/company-icons/us-de.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000FMM-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/DE",
+    "checkedAt": "2026-10-25"
+  },
+  "us-ge": {
+    "stockId": "us-ge",
+    "ticker": "GE",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20110103002/order",
+    "logoPath": "/company-icons/us-ge.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000KYG-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/GE",
+    "checkedAt": "2026-10-25"
+  },
+  "us-ups": {
+    "stockId": "us-ups",
+    "ticker": "UPS",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19991110002/order",
+    "logoPath": "/company-icons/us-ups.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000Y4G-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/UPS",
+    "checkedAt": "2026-10-25"
+  },
+  "us-nee": {
+    "stockId": "us-nee",
+    "ticker": "NEE",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19720630009/order",
+    "logoPath": "/company-icons/us-nee.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS000KQ5-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/NEE",
+    "checkedAt": "2026-10-25"
+  },
+  "us-duk": {
+    "stockId": "us-duk",
+    "ticker": "DUK",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19640616001/order",
+    "logoPath": "/company-icons/us-duk.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS06F9DV-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/DUK",
+    "checkedAt": "2026-10-25"
+  },
+  "us-pld": {
+    "stockId": "us-pld",
+    "ticker": "PLD",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19971121004/order",
+    "logoPath": "/company-icons/us-pld.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS0BTZL3-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/PLD",
+    "checkedAt": "2026-10-25"
+  },
+  "us-amt": {
+    "stockId": "us-amt",
+    "ticker": "AMT",
+    "tossUrl": "https://www.tossinvest.com/stocks/US19980227001/order",
+    "logoPath": "/company-icons/us-amt.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NYS0023JS-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/AMT",
+    "checkedAt": "2026-10-25"
+  },
+  "us-lin": {
+    "stockId": "us-lin",
+    "ticker": "LIN",
+    "tossUrl": "https://www.tossinvest.com/stocks/US20181031005/order",
+    "logoPath": "/company-icons/us-lin.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-NAS0VR5Y5-E0.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/code-or-symbol/LIN",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-010130": {
+    "stockId": "kr-010130",
+    "ticker": "010130",
+    "tossUrl": "https://www.tossinvest.com/stocks/A010130/order",
+    "logoPath": "/company-icons/kr-010130.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-010130.png?20260626",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A010130",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-021240": {
+    "stockId": "kr-021240",
+    "ticker": "021240",
+    "tossUrl": "https://www.tossinvest.com/stocks/A021240/order",
+    "logoPath": "/company-icons/kr-021240.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-021240.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A021240",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-003240": {
+    "stockId": "kr-003240",
+    "ticker": "003240",
+    "tossUrl": "https://www.tossinvest.com/stocks/A003240/order",
+    "logoPath": "/company-icons/kr-003240.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-003240.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A003240",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-005680": {
+    "stockId": "kr-005680",
+    "ticker": "005680",
+    "tossUrl": "https://www.tossinvest.com/stocks/A005680/order",
+    "logoPath": "/company-icons/kr-005680.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-005680.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A005680",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-145720": {
+    "stockId": "kr-145720",
+    "ticker": "145720",
+    "tossUrl": "https://www.tossinvest.com/stocks/A145720/order",
+    "logoPath": "/company-icons/kr-145720.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-145720.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A145720",
+    "checkedAt": "2026-10-25"
+  },
+  "kr-005830": {
+    "stockId": "kr-005830",
+    "ticker": "005830",
+    "tossUrl": "https://www.tossinvest.com/stocks/A005830/order",
+    "logoPath": "/company-icons/kr-005830.png",
+    "logoSourceUrl": "https://static.toss.im/png-icons/securities/icn-sec-fill-005830.png",
+    "verificationSource": "https://wts-info-api.tossinvest.com/api/v2/stock-infos/A005830",
+    "checkedAt": "2026-10-25"
+  }
+}

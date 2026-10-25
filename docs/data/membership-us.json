@@ -1,0 +1,302 @@
+[
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "AAPL",
+    "name": "APPLE INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "MICROSOFT CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "BROADCOM INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "AMD",
+    "name": "ADVANCED MICRO DEVICES",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "ORCL",
+    "name": "ORACLE CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "CRM",
+    "name": "SALESFORCE INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "ADBE",
+    "name": "ADOBE INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "AMAZON.COM INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "TESLA INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "HD",
+    "name": "HOME DEPOT INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "MCD",
+    "name": "MCDONALD S CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "NKE",
+    "name": "NIKE INC  CL B",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "SBUX",
+    "name": "STARBUCKS CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "BKNG",
+    "name": "BOOKING HOLDINGS INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "ALPHABET INC CL A",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "META",
+    "name": "META PLATFORMS INC CLASS A",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "NETFLIX INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "DIS",
+    "name": "WALT DISNEY CO/THE",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "T",
+    "name": "AT+T INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "VZ",
+    "name": "VERIZON COMMUNICATIONS INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "BRK.B",
+    "name": "BERKSHIRE HATHAWAY INC CL B",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMORGAN CHASE + CO",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "V",
+    "name": "VISA INC CLASS A SHARES",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "MA",
+    "name": "MASTERCARD INC   A",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "AXP",
+    "name": "AMERICAN EXPRESS CO",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "GS",
+    "name": "GOLDMAN SACHS GROUP INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "LLY",
+    "name": "ELI LILLY + CO",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "JNJ",
+    "name": "JOHNSON + JOHNSON",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "UNH",
+    "name": "UNITEDHEALTH GROUP INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "ABBV",
+    "name": "ABBVIE INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "PFE",
+    "name": "PFIZER INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "TMO",
+    "name": "THERMO FISHER SCIENTIFIC INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "WMT",
+    "name": "WALMART INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "COST",
+    "name": "COSTCO WHOLESALE CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "PG",
+    "name": "PROCTER + GAMBLE CO/THE",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "KO",
+    "name": "COCA COLA CO/THE",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PEPSICO INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "CL",
+    "name": "COLGATE PALMOLIVE CO",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "XOM",
+    "name": "EXXONMOBIL HOLDINGS CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "CVX",
+    "name": "CHEVRON CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "CAT",
+    "name": "CATERPILLAR INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "DE",
+    "name": "DEERE + CO",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "GE",
+    "name": "GENERAL ELECTRIC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "UPS",
+    "name": "UNITED PARCEL SERVICE CL B",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "NEE",
+    "name": "NEXTERA ENERGY INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "DUK",
+    "name": "DUKE ENERGY CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "PLD",
+    "name": "PROLOGIS INC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "AMT",
+    "name": "AMERICAN TOWER CORP",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  },
+  {
+    "ticker": "LIN",
+    "name": "LINDE PLC",
+    "asOf": "2026-10-22",
+    "sourceId": "spy-holdings-20261022"
+  }
+]

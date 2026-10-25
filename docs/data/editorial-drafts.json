@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "us-nvda",
+    "traits": {
+      "volatility": 90,
+      "vision": 98,
+      "stability": 35,
+      "independence": 85,
+      "momentum": 96,
+      "unpredictability": 84
+    }
+  },
+  {
+    "id": "us-aapl",
+    "traits": {
+      "volatility": 46,
+      "vision": 82,
+      "stability": 78,
+      "independence": 94,
+      "momentum": 65,
+      "unpredictability": 35
+    }
+  },
+  {
+    "id": "us-msft",
+    "traits": {
+      "volatility": 32,
+      "vision": 85,
+      "stability": 91,
+      "independence": 60,
+      "momentum": 76,
+      "unpredictability": 23
+    }
+  },
+  {
+    "id": "us-avgo",
+    "traits": {
+      "volatility": 58,
+      "vision": 78,
+      "stability": 75,
+      "independence": 83,
+      "momentum": 72,
+      "unpredictability": 48
+    }
+  },
+  {
+    "id": "us-amd",
+    "traits": {
+      "volatility": 86,
+      "vision": 91,
+      "stability": 42,
+      "independence": 92,
+      "momentum": 88,
+      "unpredictability": 75
+    }
+  },
+  {
+    "id": "us-orcl",
+    "traits": {
+      "volatility": 38,
+      "vision": 69,
+      "stability": 88,
+      "independence": 90,
+      "momentum": 59,
+      "unpredictability": 31
+    }
+  },
+  {
+    "id": "us-crm",
+    "traits": {
+      "volatility": 60,
+      "vision": 83,
+      "stability": 63,
+      "independence": 42,
+      "momentum": 78,
+      "unpredictability": 57
+    }
+  },
+  {
+    "id": "us-adbe",
+    "traits": {
+      "volatility": 69,
+      "vision": 86,
+      "stability": 55,
+      "independence": 88,
+      "momentum": 70,
+      "unpredictability": 63
+    }
+  },
+  {
+    "id": "us-amzn",
+    "traits": {
+      "volatility": 75,
+      "vision": 92,
+      "stability": 58,
+      "independence": 77,
+      "momentum": 95,
+      "unpredictability": 72
+    }
+  },
+  {
+    "id": "us-tsla",
+    "traits": {
+      "volatility": 98,
+      "vision": 99,
+      "stability": 16,
+      "independence": 98,
+      "momentum": 97,
+      "unpredictability": 98
+    }
+  },
+  {
+    "id": "us-hd",
+    "traits": {
+      "volatility": 43,
+      "vision": 52,
+      "stability": 86,
+      "independence": 78,
+      "momentum": 57,
+      "unpredictability": 29
+    }
+  },
+  {
+    "id": "us-mcd",
+    "traits": {
+      "volatility": 20,
+      "vision": 37,
+      "stability": 94,
+      "independence": 44,
+      "momentum": 43,
+      "unpredictability": 15
+    }
+  },
+  {
+    "id": "us-nke",
+    "traits": {
+      "volatility": 74,
+      "vision": 79,
+      "stability": 45,
+      "independence": 88,
+      "momentum": 87,
+      "unpredictability": 69
+    }
+  },
+  {
+    "id": "us-sbux",
+    "traits": {
+      "volatility": 55,
+      "vision": 57,
+      "stability": 61,
+      "independence": 48,
+      "momentum": 59,
+      "unpredictability": 46
+    }
+  },
+  {
+    "id": "us-bkng",
+    "traits": {
+      "volatility": 79,
+      "vision": 72,
+      "stability": 44,
+      "independence": 80,
+      "momentum": 86,
+      "unpredictability": 78
+    }
+  },
+  {
+    "id": "us-googl",
+    "traits": {
+      "volatility": 65,
+      "vision": 95,
+      "stability": 66,
+      "independence": 91,
+      "momentum": 80,
+      "unpredictability": 70
+    }
+  },
+  {
+    "id": "us-meta",
+    "traits": {
+      "volatility": 89,
+      "vision": 93,
+      "stability": 34,
+      "independence": 72,
+      "momentum": 90,
+      "unpredictability": 91
+    }
+  },
+  {
+    "id": "us-nflx",
+    "traits": {
+      "volatility": 83,
+      "vision": 80,
+      "stability": 37,
+      "independence": 84,
+      "momentum": 85,
+      "unpredictability": 88
+    }
+  },
+  {
+    "id": "us-dis",
+    "traits": {
+      "volatility": 60,
+      "vision": 81,
+      "stability": 62,
+      "independence": 69,
+      "momentum": 67,
+      "unpredictability": 66
+    }
+  },
+  {
+    "id": "us-t",
+    "traits": {
+      "volatility": 24,
+      "vision": 42,
+      "stability": 86,
+      "independence": 33,
+      "momentum": 35,
+      "unpredictability": 20
+    }
+  },
+  {
+    "id": "us-vz",
+    "traits": {
+      "volatility": 17,
+      "vision": 34,
+      "stability": 96,
+      "independence": 55,
+      "momentum": 28,
+      "unpredictability": 12
+    }
+  },
+  {
+    "id": "us-brk-b",
+    "traits": {
+      "volatility": 12,
+      "vision": 45,
+      "stability": 98,
+      "independence": 96,
+      "momentum": 20,
+      "unpredictability": 14
+    }
+  },
+  {
+    "id": "us-jpm",
+    "traits": {
+      "volatility": 35,
+      "vision": 52,
+      "stability": 90,
+      "independence": 68,
+      "momentum": 50,
+      "unpredictability": 30
+    }
+  },
+  {
+    "id": "us-v",
+    "traits": {
+      "volatility": 28,
+      "vision": 60,
+      "stability": 88,
+      "independence": 39,
+      "momentum": 68,
+      "unpredictability": 26
+    }
+  },
+  {
+    "id": "us-ma",
+    "traits": {
+      "volatility": 42,
+      "vision": 74,
+      "stability": 76,
+      "independence": 51,
+      "momentum": 74,
+      "unpredictability": 40
+    }
+  },
+  {
+    "id": "us-axp",
+    "traits": {
+      "volatility": 49,
+      "vision": 55,
+      "stability": 68,
+      "independence": 86,
+      "momentum": 58,
+      "unpredictability": 42
+    }
+  },
+  {
+    "id": "us-gs",
+    "traits": {
+      "volatility": 73,
+      "vision": 75,
+      "stability": 51,
+      "independence": 91,
+      "momentum": 82,
+      "unpredictability": 59
+    }
+  },
+  {
+    "id": "us-lly",
+    "traits": {
+      "volatility": 72,
+      "vision": 95,
+      "stability": 50,
+      "independence": 79,
+      "momentum": 84,
+      "unpredictability": 77
+    }
+  },
+  {
+    "id": "us-jnj",
+    "traits": {
+      "volatility": 23,
+      "vision": 57,
+      "stability": 93,
+      "independence": 50,
+      "momentum": 42,
+      "unpredictability": 21
+    }
+  },
+  {
+    "id": "us-unh",
+    "traits": {
+      "volatility": 57,
+      "vision": 61,
+      "stability": 72,
+      "independence": 40,
+      "momentum": 54,
+      "unpredictability": 61
+    }
+  },
+  {
+    "id": "us-abbv",
+    "traits": {
+      "volatility": 47,
+      "vision": 73,
+      "stability": 74,
+      "independence": 82,
+      "momentum": 61,
+      "unpredictability": 53
+    }
+  },
+  {
+    "id": "us-pfe",
+    "traits": {
+      "volatility": 66,
+      "vision": 70,
+      "stability": 58,
+      "independence": 62,
+      "momentum": 50,
+      "unpredictability": 71
+    }
+  },
+  {
+    "id": "us-tmo",
+    "traits": {
+      "volatility": 40,
+      "vision": 77,
+      "stability": 81,
+      "independence": 74,
+      "momentum": 64,
+      "unpredictability": 33
+    }
+  },
+  {
+    "id": "us-wmt",
+    "traits": {
+      "volatility": 16,
+      "vision": 39,
+      "stability": 95,
+      "independence": 47,
+      "momentum": 53,
+      "unpredictability": 16
+    }
+  },
+  {
+    "id": "us-cost",
+    "traits": {
+      "volatility": 25,
+      "vision": 46,
+      "stability": 92,
+      "independence": 85,
+      "momentum": 47,
+      "unpredictability": 19
+    }
+  },
+  {
+    "id": "us-pg",
+    "traits": {
+      "volatility": 10,
+      "vision": 31,
+      "stability": 99,
+      "independence": 57,
+      "momentum": 30,
+      "unpredictability": 9
+    }
+  },
+  {
+    "id": "us-ko",
+    "traits": {
+      "volatility": 13,
+      "vision": 30,
+      "stability": 97,
+      "independence": 62,
+      "momentum": 38,
+      "unpredictability": 17
+    }
+  },
+  {
+    "id": "us-pep",
+    "traits": {
+      "volatility": 31,
+      "vision": 48,
+      "stability": 84,
+      "independence": 45,
+      "momentum": 60,
+      "unpredictability": 37
+    }
+  },
+  {
+    "id": "us-cl",
+    "traits": {
+      "volatility": 8,
+      "vision": 24,
+      "stability": 96,
+      "independence": 70,
+      "momentum": 25,
+      "unpredictability": 10
+    }
+  },
+  {
+    "id": "us-xom",
+    "traits": {
+      "volatility": 68,
+      "vision": 49,
+      "stability": 70,
+      "independence": 87,
+      "momentum": 62,
+      "unpredictability": 65
+    }
+  },
+  {
+    "id": "us-cvx",
+    "traits": {
+      "volatility": 61,
+      "vision": 43,
+      "stability": 77,
+      "independence": 74,
+      "momentum": 55,
+      "unpredictability": 56
+    }
+  },
+  {
+    "id": "us-cat",
+    "traits": {
+      "volatility": 63,
+      "vision": 51,
+      "stability": 75,
+      "independence": 90,
+      "momentum": 74,
+      "unpredictability": 44
+    }
+  },
+  {
+    "id": "us-de",
+    "traits": {
+      "volatility": 52,
+      "vision": 71,
+      "stability": 79,
+      "independence": 84,
+      "momentum": 63,
+      "unpredictability": 38
+    }
+  },
+  {
+    "id": "us-ge",
+    "traits": {
+      "volatility": 62,
+      "vision": 87,
+      "stability": 69,
+      "independence": 81,
+      "momentum": 80,
+      "unpredictability": 51
+    }
+  },
+  {
+    "id": "us-ups",
+    "traits": {
+      "volatility": 36,
+      "vision": 44,
+      "stability": 87,
+      "independence": 59,
+      "momentum": 82,
+      "unpredictability": 28
+    }
+  },
+  {
+    "id": "us-nee",
+    "traits": {
+      "volatility": 48,
+      "vision": 84,
+      "stability": 73,
+      "independence": 67,
+      "momentum": 62,
+      "unpredictability": 49
+    }
+  },
+  {
+    "id": "us-duk",
+    "traits": {
+      "volatility": 9,
+      "vision": 27,
+      "stability": 98,
+      "independence": 38,
+      "momentum": 22,
+      "unpredictability": 8
+    }
+  },
+  {
+    "id": "us-pld",
+    "traits": {
+      "volatility": 44,
+      "vision": 59,
+      "stability": 83,
+      "independence": 76,
+      "momentum": 48,
+      "unpredictability": 32
+    }
+  },
+  {
+    "id": "us-amt",
+    "traits": {
+      "volatility": 39,
+      "vision": 54,
+      "stability": 85,
+      "independence": 89,
+      "momentum": 37,
+      "unpredictability": 27
+    }
+  },
+  {
+    "id": "us-lin",
+    "traits": {
+      "volatility": 27,
+      "vision": 65,
+      "stability": 90,
+      "independence": 73,
+      "momentum": 45,
+      "unpredictability": 22
+    }
+  },
+  {
+    "id": "kr-005930",
+    "traits": {
+      "volatility": 44,
+      "vision": 86,
+      "stability": 83,
+      "independence": 48,
+      "momentum": 68,
+      "unpredictability": 35
+    }
+  },
+  {
+    "id": "kr-000660",
+    "traits": {
+      "volatility": 78,
+      "vision": 91,
+      "stability": 45,
+      "independence": 66,
+      "momentum": 92,
+      "unpredictability": 70
+    }
+  },
+  {
+    "id": "kr-035420",
+    "traits": {
+      "volatility": 58,
+      "vision": 89,
+      "stability": 60,
+      "independence": 77,
+      "momentum": 75,
+      "unpredictability": 57
+    }
+  },
+  {
+    "id": "kr-035720",
+    "traits": {
+      "volatility": 73,
+      "vision": 80,
+      "stability": 43,
+      "independence": 43,
+      "momentum": 79,
+      "unpredictability": 81
+    }
+  },
+  {
+    "id": "kr-005380",
+    "traits": {
+      "volatility": 53,
+      "vision": 82,
+      "stability": 73,
+      "independence": 63,
+      "momentum": 77,
+      "unpredictability": 44
+    }
+  },
+  {
+    "id": "kr-000270",
+    "traits": {
+      "volatility": 60,
+      "vision": 81,
+      "stability": 65,
+      "independence": 81,
+      "momentum": 83,
+      "unpredictability": 59
+    }
+  },
+  {
+    "id": "kr-012330",
+    "traits": {
+      "volatility": 29,
+      "vision": 65,
+      "stability": 89,
+      "independence": 53,
+      "momentum": 45,
+      "unpredictability": 20
+    }
+  },
+  {
+    "id": "kr-066570",
+    "traits": {
+      "volatility": 36,
+      "vision": 70,
+      "stability": 85,
+      "independence": 61,
+      "momentum": 52,
+      "unpredictability": 30
+    }
+  },
+  {
+    "id": "kr-006400",
+    "traits": {
+      "volatility": 67,
+      "vision": 86,
+      "stability": 61,
+      "independence": 72,
+      "momentum": 68,
+      "unpredictability": 55
+    }
+  },
+  {
+    "id": "kr-051910",
+    "traits": {
+      "volatility": 61,
+      "vision": 79,
+      "stability": 68,
+      "independence": 70,
+      "momentum": 59,
+      "unpredictability": 48
+    }
+  },
+  {
+    "id": "kr-373220",
+    "traits": {
+      "volatility": 82,
+      "vision": 94,
+      "stability": 41,
+      "independence": 68,
+      "momentum": 85,
+      "unpredictability": 73
+    }
+  },
+  {
+    "id": "kr-005490",
+    "traits": {
+      "volatility": 46,
+      "vision": 69,
+      "stability": 87,
+      "independence": 75,
+      "momentum": 50,
+      "unpredictability": 28
+    }
+  },
+  {
+    "id": "kr-105560",
+    "traits": {
+      "volatility": 24,
+      "vision": 52,
+      "stability": 93,
+      "independence": 48,
+      "momentum": 40,
+      "unpredictability": 15
+    }
+  },
+  {
+    "id": "kr-055550",
+    "traits": {
+      "volatility": 30,
+      "vision": 63,
+      "stability": 86,
+      "independence": 46,
+      "momentum": 49,
+      "unpredictability": 23
+    }
+  },
+  {
+    "id": "kr-086790",
+    "traits": {
+      "volatility": 38,
+      "vision": 66,
+      "stability": 78,
+      "independence": 57,
+      "momentum": 53,
+      "unpredictability": 34
+    }
+  },
+  {
+    "id": "kr-316140",
+    "traits": {
+      "volatility": 28,
+      "vision": 44,
+      "stability": 91,
+      "independence": 37,
+      "momentum": 38,
+      "unpredictability": 18
+    }
+  },
+  {
+    "id": "kr-032830",
+    "traits": {
+      "volatility": 15,
+      "vision": 37,
+      "stability": 97,
+      "independence": 46,
+      "momentum": 24,
+      "unpredictability": 10
+    }
+  },
+  {
+    "id": "kr-000810",
+    "traits": {
+      "volatility": 20,
+      "vision": 42,
+      "stability": 94,
+      "independence": 59,
+      "momentum": 28,
+      "unpredictability": 14
+    }
+  },
+  {
+    "id": "kr-017670",
+    "traits": {
+      "volatility": 34,
+      "vision": 74,
+      "stability": 83,
+      "independence": 41,
+      "momentum": 57,
+      "unpredictability": 32
+    }
+  },
+  {
+    "id": "kr-030200",
+    "traits": {
+      "volatility": 23,
+      "vision": 61,
+      "stability": 92,
+      "independence": 44,
+      "momentum": 43,
+      "unpredictability": 19
+    }
+  },
+  {
+    "id": "kr-032640",
+    "traits": {
+      "volatility": 39,
+      "vision": 69,
+      "stability": 78,
+      "independence": 55,
+      "momentum": 61,
+      "unpredictability": 41
+    }
+  },
+  {
+    "id": "kr-015760",
+    "traits": {
+      "volatility": 18,
+      "vision": 50,
+      "stability": 96,
+      "independence": 50,
+      "momentum": 31,
+      "unpredictability": 13
+    }
+  },
+  {
+    "id": "kr-033780",
+    "traits": {
+      "volatility": 26,
+      "vision": 45,
+      "stability": 88,
+      "independence": 87,
+      "momentum": 36,
+      "unpredictability": 22
+    }
+  },
+  {
+    "id": "kr-097950",
+    "traits": {
+      "volatility": 32,
+      "vision": 60,
+      "stability": 85,
+      "independence": 48,
+      "momentum": 55,
+      "unpredictability": 27
+    }
+  },
+  {
+    "id": "kr-004370",
+    "traits": {
+      "volatility": 25,
+      "vision": 43,
+      "stability": 92,
+      "independence": 69,
+      "momentum": 47,
+      "unpredictability": 21
+    }
+  },
+  {
+    "id": "kr-271560",
+    "traits": {
+      "volatility": 31,
+      "vision": 49,
+      "stability": 87,
+      "independence": 56,
+      "momentum": 58,
+      "unpredictability": 29
+    }
+  },
+  {
+    "id": "kr-003230",
+    "traits": {
+      "volatility": 84,
+      "vision": 73,
+      "stability": 40,
+      "independence": 91,
+      "momentum": 94,
+      "unpredictability": 85
+    }
+  },
+  {
+    "id": "kr-282330",
+    "traits": {
+      "volatility": 19,
+      "vision": 47,
+      "stability": 94,
+      "independence": 37,
+      "momentum": 51,
+      "unpredictability": 16
+    }
+  },
+  {
+    "id": "kr-139480",
+    "traits": {
+      "volatility": 34,
+      "vision": 41,
+      "stability": 83,
+      "independence": 47,
+      "momentum": 38,
+      "unpredictability": 28
+    }
+  },
+  {
+    "id": "kr-023530",
+    "traits": {
+      "volatility": 37,
+      "vision": 52,
+      "stability": 80,
+      "independence": 51,
+      "momentum": 42,
+      "unpredictability": 34
+    }
+  },
+  {
+    "id": "kr-051900",
+    "traits": {
+      "volatility": 33,
+      "vision": 55,
+      "stability": 86,
+      "independence": 60,
+      "momentum": 44,
+      "unpredictability": 26
+    }
+  },
+  {
+    "id": "kr-090430",
+    "traits": {
+      "volatility": 59,
+      "vision": 71,
+      "stability": 58,
+      "independence": 89,
+      "momentum": 62,
+      "unpredictability": 63
+    }
+  },
+  {
+    "id": "kr-028260",
+    "traits": {
+      "volatility": 39,
+      "vision": 62,
+      "stability": 84,
+      "independence": 55,
+      "momentum": 48,
+      "unpredictability": 31
+    }
+  },
+  {
+    "id": "kr-009150",
+    "traits": {
+      "volatility": 45,
+      "vision": 75,
+      "stability": 76,
+      "independence": 68,
+      "momentum": 67,
+      "unpredictability": 38
+    }
+  },
+  {
+    "id": "kr-011070",
+    "traits": {
+      "volatility": 63,
+      "vision": 78,
+      "stability": 59,
+      "independence": 73,
+      "momentum": 76,
+      "unpredictability": 61
+    }
+  },
+  {
+    "id": "kr-009540",
+    "traits": {
+      "volatility": 56,
+      "vision": 80,
+      "stability": 73,
+      "independence": 64,
+      "momentum": 72,
+      "unpredictability": 43
+    }
+  },
+  {
+    "id": "kr-010140",
+    "traits": {
+      "volatility": 65,
+      "vision": 76,
+      "stability": 68,
+      "independence": 70,
+      "momentum": 74,
+      "unpredictability": 54
+    }
+  },
+  {
+    "id": "kr-042660",
+    "traits": {
+      "volatility": 76,
+      "vision": 83,
+      "stability": 49,
+      "independence": 78,
+      "momentum": 86,
+      "unpredictability": 69
+    }
+  },
+  {
+    "id": "kr-034020",
+    "traits": {
+      "volatility": 77,
+      "vision": 93,
+      "stability": 51,
+      "independence": 76,
+      "momentum": 78,
+      "unpredictability": 67
+    }
+  },
+  {
+    "id": "kr-010120",
+    "traits": {
+      "volatility": 49,
+      "vision": 82,
+      "stability": 79,
+      "independence": 64,
+      "momentum": 73,
+      "unpredictability": 39
+    }
+  },
+  {
+    "id": "kr-047810",
+    "traits": {
+      "volatility": 70,
+      "vision": 91,
+      "stability": 54,
+      "independence": 81,
+      "momentum": 79,
+      "unpredictability": 62
+    }
+  },
+  {
+    "id": "kr-012450",
+    "traits": {
+      "volatility": 87,
+      "vision": 95,
+      "stability": 43,
+      "independence": 88,
+      "momentum": 96,
+      "unpredictability": 79
+    }
+  },
+  {
+    "id": "kr-064350",
+    "traits": {
+      "volatility": 68,
+      "vision": 77,
+      "stability": 62,
+      "independence": 66,
+      "momentum": 84,
+      "unpredictability": 57
+    }
+  },
+  {
+    "id": "kr-036570",
+    "traits": {
+      "volatility": 79,
+      "vision": 83,
+      "stability": 37,
+      "independence": 93,
+      "momentum": 63,
+      "unpredictability": 87
+    }
+  },
+  {
+    "id": "kr-251270",
+    "traits": {
+      "volatility": 81,
+      "vision": 76,
+      "stability": 36,
+      "independence": 71,
+      "momentum": 88,
+      "unpredictability": 90
+    }
+  },
+  {
+    "id": "kr-259960",
+    "traits": {
+      "volatility": 88,
+      "vision": 88,
+      "stability": 34,
+      "independence": 96,
+      "momentum": 91,
+      "unpredictability": 93
+    }
+  },
+  {
+    "id": "kr-035250",
+    "traits": {
+      "volatility": 72,
+      "vision": 45,
+      "stability": 48,
+      "independence": 86,
+      "momentum": 64,
+      "unpredictability": 95
+    }
+  },
+  {
+    "id": "kr-000100",
+    "traits": {
+      "volatility": 34,
+      "vision": 76,
+      "stability": 86,
+      "independence": 65,
+      "momentum": 48,
+      "unpredictability": 31
+    }
+  },
+  {
+    "id": "kr-128940",
+    "traits": {
+      "volatility": 75,
+      "vision": 96,
+      "stability": 44,
+      "independence": 90,
+      "momentum": 74,
+      "unpredictability": 80
+    }
+  },
+  {
+    "id": "kr-069620",
+    "traits": {
+      "volatility": 62,
+      "vision": 84,
+      "stability": 63,
+      "independence": 79,
+      "momentum": 69,
+      "unpredictability": 60
+    }
+  }
+]

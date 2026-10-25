@@ -1,0 +1,56 @@
+[
+  {
+    "stockId": "kr-010130",
+    "companyName": "고려아연",
+    "platform": "비사이드코리아",
+    "url": "https://bside.ai/c/kz/2026E-1",
+    "checkedAt": "2026-10-25",
+    "discoveryUrl": "https://bside.ai/home",
+    "label": "비사이드코리아 캠페인 보기"
+  },
+  {
+    "stockId": "kr-021240",
+    "companyName": "코웨이",
+    "platform": "비사이드코리아",
+    "url": "https://bside.ai/c/coway/2025A-1",
+    "checkedAt": "2026-10-25",
+    "discoveryUrl": "https://bside.ai/home",
+    "label": "비사이드코리아 캠페인 보기"
+  },
+  {
+    "stockId": "kr-003240",
+    "companyName": "태광산업",
+    "platform": "비사이드코리아",
+    "url": "https://bside.ai/c/taekwang/2026A-1",
+    "checkedAt": "2026-10-25",
+    "discoveryUrl": "https://bside.ai/home",
+    "label": "비사이드코리아 캠페인 보기"
+  },
+  {
+    "stockId": "kr-005680",
+    "companyName": "삼영전자공업",
+    "platform": "비사이드코리아",
+    "url": "https://bside.ai/c/samyoung/2026A-1",
+    "checkedAt": "2026-10-25",
+    "discoveryUrl": "https://bside.ai/home",
+    "label": "비사이드코리아 캠페인 보기"
+  },
+  {
+    "stockId": "kr-145720",
+    "companyName": "덴티움",
+    "platform": "비사이드코리아",
+    "url": "https://bside.ai/c/dentium/2026A-1",
+    "checkedAt": "2026-10-25",
+    "discoveryUrl": "https://bside.ai/home",
+    "label": "비사이드코리아 캠페인 보기"
+  },
+  {
+    "stockId": "kr-005830",
+    "companyName": "DB손해보험",
+    "platform": "비사이드코리아",
+    "url": "https://bside.ai/c/dbi/2026A-1",
+    "checkedAt": "2026-10-25",
+    "discoveryUrl": "https://bside.ai/home",
+    "label": "비사이드코리아 캠페인 보기"
+  }
+]

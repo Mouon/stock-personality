@@ -1,0 +1,484 @@
+[
+  {
+    "id": "spy-holdings-20261022",
+    "title": "State Street SPY 공식 일별 보유 종목 (2026-10-22)",
+    "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx",
+    "asOf": "2026-10-22",
+    "checkedAt": "2026-10-25",
+    "note": "공식 SPY 보유 내역의 티커로 구성 확인. 지수 구성의 운영상 대조 자료이며 이후 변경은 반영하지 않음.",
+    "snapshotPath": "/private/tmp/stock-personality-research/spy.xlsx",
+    "sha256": "df96332ee05f95e11cdfb3a69991b162bfb349564e91010333840a35373a708a"
+  },
+  {
+    "id": "issuer-nvda",
+    "title": "NVIDIA 공식 사업 소개",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-aapl",
+    "title": "Apple 공식 사업 소개",
+    "url": "https://www.apple.com/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-msft",
+    "title": "Microsoft 공식 사업 소개",
+    "url": "https://www.microsoft.com/en-us/about",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-avgo",
+    "title": "Broadcom 공식 사업 소개",
+    "url": "https://www.broadcom.com/company",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-amd",
+    "title": "AMD 공식 사업 소개",
+    "url": "https://www.amd.com/en/corporate.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-orcl",
+    "title": "Oracle 공식 사업 소개",
+    "url": "https://www.oracle.com/corporate/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-crm",
+    "title": "Salesforce 공식 사업 소개",
+    "url": "https://www.salesforce.com/company/our-story/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-adbe",
+    "title": "Adobe 공식 사업 소개",
+    "url": "https://www.adobe.com/about-adobe.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-amzn",
+    "title": "Amazon 공식 사업 소개",
+    "url": "https://www.aboutamazon.com/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-tsla",
+    "title": "Tesla 공식 사업 소개",
+    "url": "https://www.tesla.com/about",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-hd",
+    "title": "The Home Depot 공식 사업 소개",
+    "url": "https://corporate.homedepot.com/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-mcd",
+    "title": "McDonald's 공식 사업 소개",
+    "url": "https://corporate.mcdonalds.com/corpmcd/home.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-nke",
+    "title": "Nike 공식 사업 소개",
+    "url": "https://about.nike.com/en",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-sbux",
+    "title": "Starbucks 공식 사업 소개",
+    "url": "https://about.starbucks.com/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-bkng",
+    "title": "Booking Holdings 공식 사업 소개",
+    "url": "https://www.bookingholdings.com/about/factsheet/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-googl",
+    "title": "Alphabet 공식 사업 소개",
+    "url": "https://abc.xyz/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-meta",
+    "title": "Meta Platforms 공식 사업 소개",
+    "url": "https://www.meta.com/about/company-info/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-nflx",
+    "title": "Netflix 공식 사업 소개",
+    "url": "https://about.netflix.com/en",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-dis",
+    "title": "The Walt Disney Company 공식 사업 소개",
+    "url": "https://thewaltdisneycompany.com/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-t",
+    "title": "AT&T 공식 사업 소개",
+    "url": "https://about.att.com/pages/corporate-profile",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-vz",
+    "title": "Verizon 공식 사업 소개",
+    "url": "https://www.verizon.com/about",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-brk-b",
+    "title": "Berkshire Hathaway 공식 사업 소개",
+    "url": "https://www.berkshirehathaway.com/subs/sublinks.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-jpm",
+    "title": "JPMorgan Chase 공식 사업 소개",
+    "url": "https://www.jpmorganchase.com/about",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-v",
+    "title": "Visa 공식 사업 소개",
+    "url": "https://corporate.visa.com/en/about-visa.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-ma",
+    "title": "Mastercard 공식 사업 소개",
+    "url": "https://www.mastercard.com/global/en/for-the-world/about-us.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-axp",
+    "title": "American Express 공식 사업 소개",
+    "url": "https://www.americanexpress.com/en-us/company/who-we-are/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-gs",
+    "title": "Goldman Sachs 공식 사업 소개",
+    "url": "https://www.goldmansachs.com/what-we-do/our-businesses",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-lly",
+    "title": "Eli Lilly 공식 사업 소개",
+    "url": "https://www.lilly.com/about",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-jnj",
+    "title": "Johnson & Johnson 공식 사업 소개",
+    "url": "https://www.jnj.com/our-company",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-unh",
+    "title": "UnitedHealth Group 공식 사업 소개",
+    "url": "https://www.unitedhealthgroup.com/uhg/people-and-culture.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-abbv",
+    "title": "AbbVie 공식 사업 소개",
+    "url": "https://www.abbvie.com/who-we-are.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-pfe",
+    "title": "Pfizer 공식 사업 소개",
+    "url": "https://www.pfizer.com/about",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-tmo",
+    "title": "Thermo Fisher Scientific 공식 사업 소개",
+    "url": "https://corporate.thermofisher.com/us/en/index/about.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-wmt",
+    "title": "Walmart 공식 사업 소개",
+    "url": "https://corporate.walmart.com/about",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-cost",
+    "title": "Costco 공식 사업 소개",
+    "url": "https://investor.costco.com/company-profile/default.aspx",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-pg",
+    "title": "Procter & Gamble 공식 사업 소개",
+    "url": "https://us.pg.com/brands/",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-ko",
+    "title": "The Coca-Cola Company 공식 사업 소개",
+    "url": "https://www.coca-colacompany.com/about-us",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-pep",
+    "title": "PepsiCo 공식 사업 소개",
+    "url": "https://www.pepsico.com/en/about",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-cl",
+    "title": "Colgate-Palmolive 공식 사업 소개",
+    "url": "https://www.colgatepalmolive.com/en-us/who-we-are",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-xom",
+    "title": "ExxonMobil 공식 사업 소개",
+    "url": "https://corporate.exxonmobil.com/who-we-are",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-cvx",
+    "title": "Chevron 공식 사업 소개",
+    "url": "https://www.chevron.com/what-we-do/energy/supply-and-trading",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-cat",
+    "title": "Caterpillar 공식 사업 소개",
+    "url": "https://www.caterpillar.com/en/company.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-de",
+    "title": "Deere & Company 2025 연차보고서",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/de-20251102x10k.htm",
+    "asOf": "2025-11-02",
+    "checkedAt": "2026-10-25",
+    "note": "2025 회계연도 사업 설명을 참고했으며 최신 실적 수치에는 사용하지 않음."
+  },
+  {
+    "id": "issuer-ge",
+    "title": "GE Aerospace 공식 사업 소개",
+    "url": "https://www.geaerospace.com/company/about-us/leadership",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-ups",
+    "title": "UPS 공식 사업 소개",
+    "url": "https://about.ups.com/us/en/our-company.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-nee",
+    "title": "NextEra Energy 공식 사업 소개",
+    "url": "https://www.nexteraenergy.com/about-us.html",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-duk",
+    "title": "Duke Energy 공식 사업 소개",
+    "url": "https://www.duke-energy.com/our-company/about-us",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-pld",
+    "title": "Prologis 공식 사업 소개",
+    "url": "https://www.prologis.com/about-us",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "issuer-amt",
+    "title": "American Tower 2025 연차보고서",
+    "url": "https://americantower.gcs-web.com/static-files/66b0603a-d360-436a-93ec-1e9b3d369a83",
+    "asOf": "2025-12-31",
+    "checkedAt": "2026-10-25",
+    "note": "2025 회계연도 사업 설명을 참고했으며 최신 실적 수치에는 사용하지 않음."
+  },
+  {
+    "id": "issuer-lin",
+    "title": "Linde 공식 사업 소개",
+    "url": "https://www.linde.com/about-us",
+    "asOf": null,
+    "checkedAt": "2026-10-25",
+    "note": "발행일 표기가 없는 공식 회사 페이지; 접근일과 구성 기준일을 구분함."
+  },
+  {
+    "id": "krx-kospi-list",
+    "title": "KRX KIND 상장법인목록 유가증권시장",
+    "url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+    "asOf": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "notes": "실제 다운로드한 회사명·종목코드·시장구분·업종·주요제품. 내부 기준일 표시가 없어 조회일 사용. asOf는 확인일이며 발행일을 의미하지 않음."
+  },
+  {
+    "id": "kakao-official",
+    "title": "카카오 공식 서비스 소개",
+    "url": "https://www.kakaocorp.com/page/?lang=ko",
+    "asOf": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "notes": "카카오톡 서비스 확인. asOf는 확인일이며 발행일을 의미하지 않음."
+  },
+  {
+    "id": "lge-business",
+    "title": "LG전자 사업소개",
+    "url": "https://www.lge.co.kr/company/info/introduce",
+    "asOf": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "notes": "가전 및 TV 사업 확인. 과거 휴대폰 사업은 사용하지 않음. asOf는 확인일이며 발행일을 의미하지 않음."
+  },
+  {
+    "id": "kb-group",
+    "title": "KB금융그룹 소개",
+    "url": "https://kbfg.com/kor/about/group/info.htm",
+    "asOf": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "notes": "은행·증권·보험 등 계열사 구조 확인. asOf는 확인일이며 발행일을 의미하지 않음."
+  },
+  {
+    "id": "shinhan-group",
+    "title": "신한금융그룹 공식 홈페이지",
+    "url": "https://www.shinhangroup.com/kr/main",
+    "asOf": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "notes": "금융지주 및 은행·카드 네트워크 확인. asOf는 확인일이며 발행일을 의미하지 않음."
+  },
+  {
+    "id": "lginnotek-business",
+    "title": "LG이노텍 회사소개",
+    "url": "https://www.lginnotek.com/company/intro.lgit",
+    "asOf": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "notes": "광학솔루션 및 기판소재 사업 확인. 페이지 수치기준은 2025년말이지만 사업영역만 사용. asOf는 확인일이며 발행일을 의미하지 않음."
+  },
+  {
+    "id": "hanmi-rnd",
+    "title": "한미약품 연구개발 소개",
+    "url": "https://www.hanmi.co.kr/",
+    "asOf": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "notes": "항암·대사질환 연구개발 영역만 확인. 임상성과·효과에 관한 주장은 사용하지 않음. asOf는 확인일이며 발행일을 의미하지 않음."
+  },
+  {
+    "id": "posco-group",
+    "title": "포스코홀딩스 공식 홈페이지",
+    "url": "https://www.posco-inc.com/hs91a1-front/app/index.html",
+    "asOf": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "notes": "철강에서 시작한 회사의 역사와 철강·이차전지소재 등 그룹사 확인. asOf는 확인일이며 발행일을 의미하지 않음."
+  },
+  {
+    "id": "apple-duo-20260909",
+    "title": "Apple iPhone Duo 공식 발표",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "asOf": "2026-09-09",
+    "checkedAt": "2026-10-25",
+    "note": "폴더블 iPhone 공개 사실 확인. 성격 드립과 고집 해석은 창작."
+  }
+]
